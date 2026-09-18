@@ -1,0 +1,24 @@
+# Credentials
+.env
+.env.local
+
+# Working files (ephemeral)
+active-development/
+
+# Sync state
+.sync-state/
+
+# Activity log
+.activity-log/
+
+# Logs
+hook-logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+

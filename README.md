@@ -1,4 +1,4 @@
-# Template Boomi Implementation Workspace
+# Template Boomi Implementation Workspace 
 
 This is a template directory to support programmatic Boomi development with Claude Code using the boomi-integration skill. It is distributed via the bc-integration plugin. 
 

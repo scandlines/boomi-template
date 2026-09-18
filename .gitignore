@@ -1,6 +1,6 @@
-# Credentials
-.env
-.env.local
+# Credentials (.env.example is the safe template and stays tracked)
+.env*
+!.env.example
 
 # Sync state
 .sync-state/

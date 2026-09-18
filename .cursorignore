@@ -1,6 +1,6 @@
-# Credentials
-.env
-.env.local
+# Credentials (.env.example is the safe template and stays readable)
+.env*
+!.env.example
 
 # Working files (ephemeral)
 active-development/
@@ -21,4 +21,3 @@ venv/
 
 # OS
 .DS_Store
-
